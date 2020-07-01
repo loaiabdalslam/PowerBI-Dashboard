@@ -1,3 +1,3 @@
 ![Dasboard Image ](dashboard.png)
 
-![Dasboard Image](dashboard.png2)
+![Dasboard Image](dashboard2.png)
